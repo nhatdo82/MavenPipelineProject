@@ -1,0 +1,6 @@
+projectKey=com.meu.solutions:AmazonMaven
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/com.meu.solutions:AmazonMaven
+ceTaskId=AW-Wfz2gLE3iygASYt_0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW-Wfz2gLE3iygASYt_0
