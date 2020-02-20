@@ -50,7 +50,7 @@
   			<version>3.0.0-M4</version>
   			<configuration>
   				<suiteXmlFiles>
-  					<suiteXmlFile>/Users/nhatdo/eclipse-workspace/AmazonMaven//src/test/java/testng.xml</suiteXmlFile>
+  					<suiteXmlFile>./src/test/java/testng.xml</suiteXmlFile>
   				</suiteXmlFiles>
   			</configuration>
   		</plugin>
